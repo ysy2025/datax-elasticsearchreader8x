@@ -1,9 +1,5 @@
 package com.alibaba.datax.plugin.reader.elasticsearch8x;
 
-/**
- * @author yangsiyu
- * @since 2024/12/16.
- */
 
 import com.alibaba.datax.common.util.Configuration;
 import com.alibaba.fastjson.JSON;
